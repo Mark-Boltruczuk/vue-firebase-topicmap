@@ -1,4 +1,4 @@
-# web-ripple
+# vue-firebase-topicmap
 
 > A Vue.js + Firebase Project 
 
